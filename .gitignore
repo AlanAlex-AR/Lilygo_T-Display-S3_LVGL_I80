@@ -51,6 +51,7 @@ build-*/
 *.pdb
 *.svd
 *.cfg
+*.jason
 
 # Kernel Module Compile Results
 *.mod*
